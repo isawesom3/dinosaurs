@@ -13,6 +13,7 @@ To edit this repository in MakeCode:
 ## Instructions
 
 Press A, then run around. Collect the baby dinos but avoid the skulls!
+to move use up and down arrows
 ![Screenshot 2024-07-12 5 49 30 PM](https://github.com/user-attachments/assets/54fe6dc9-1f65-4de4-815e-41b4fbc0ee82)
 
 
