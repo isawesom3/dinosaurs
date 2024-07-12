@@ -19,5 +19,6 @@ Press A, then run around. Collect the baby dinos but avoid the skulls!
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/isawesom3/dinosaurs/raw/master/.github/makecode/blocks.png)
+
+
 
